@@ -1,0 +1,10 @@
+9
+0ABCDEFGH
+1bnbnbnbn
+2nbnbnbnb
+3bnbnbnbn
+4nbnbnbnb
+5bnbnbnbn
+6nbnbnbnb
+7bnbnbnbn
+8nbnbnbnb

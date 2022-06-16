@@ -1,0 +1,4 @@
+
+Joueur (ID_Joueur_Joueur, Nom_Joueur, Prenom_Joueur, Classe, NB_Victoire_Joueur, NB_Defaite_Joueur, NB_Egalite_Joueur) 
+Match (ID_Match_Match, Joueur_Blanc_Match, Joueur_Noir_Match, Temps_Match) 
+Joue (ID_Joueur_Joueur, ID_Match_Match) 
